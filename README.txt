@@ -6,6 +6,8 @@ The Cathan Concert Grand is a high quality piano soundfont based on the Maestro 
 - The original samples were recorded by Mats Helgesson for his Maestro Concert Grand V2 library.
 - You can find Maestro here: https://github.com/sfzinstruments/MatsHelgesson.MaestroConcertGrandPiano/
 
+- The samples have been edited after obtaining written permission from Mats Helgesson.
+
 - Cathan Concert Grand soundfont is licensed under Attribution-NoDerivatives 4.0 International (http://creativecommons.org/licenses/by-nd/4.0).
 
 -Features:
