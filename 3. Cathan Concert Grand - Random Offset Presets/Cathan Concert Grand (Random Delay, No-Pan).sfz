@@ -5,11 +5,16 @@
 
 // LAYER 1 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=0
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -102,11 +107,16 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=10
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -199,11 +209,16 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=20
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -296,11 +311,16 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=30
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -393,11 +413,16 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=40
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -490,11 +515,16 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=50
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -587,11 +617,16 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=60
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -684,11 +719,16 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=70
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -781,11 +821,16 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=80
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -878,11 +923,16 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=114 hivel=127
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
 ampeg_attack=0.01
-cutoff=19913
+cutoff=16000
 offset=90
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -977,6 +1027,11 @@ offset=90
 
 // LAYER 2 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -1074,6 +1129,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -1171,6 +1231,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -1268,6 +1333,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -1365,6 +1435,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -1462,6 +1537,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -1559,6 +1639,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -1656,6 +1741,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -1753,6 +1843,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -1850,6 +1945,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=108 hivel=113
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -1950,6 +2050,11 @@ offset=90
 
 // LAYER 3 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -2047,6 +2152,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -2144,6 +2254,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -2241,6 +2356,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -2338,6 +2458,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -2435,6 +2560,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -2532,6 +2662,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -2629,6 +2764,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -2726,6 +2866,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -2823,6 +2968,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=102 hivel=107
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -2923,6 +3073,11 @@ offset=90
 
 // LAYER 4 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -3020,6 +3175,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -3117,6 +3277,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -3214,6 +3379,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -3311,6 +3481,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -3408,6 +3583,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -3505,6 +3685,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -3602,6 +3787,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -3699,6 +3889,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -3796,6 +3991,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=96 hivel=101
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -3896,6 +4096,11 @@ offset=90
 
 // LAYER 5 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -3993,6 +4198,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -4090,6 +4300,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -4187,6 +4402,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -4284,6 +4504,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -4381,6 +4606,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -4478,6 +4708,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -4575,6 +4810,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -4672,6 +4912,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -4769,6 +5014,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=90 hivel=95
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -4869,6 +5119,11 @@ offset=90
 
 // LAYER 6 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -4966,6 +5221,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -5063,6 +5323,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -5160,6 +5425,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -5257,6 +5527,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -5354,6 +5629,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -5451,6 +5731,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -5548,6 +5833,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -5645,6 +5935,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -5742,6 +6037,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=84 hivel=89
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -5842,6 +6142,11 @@ offset=90
 
 // LAYER 7 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -5939,6 +6244,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -6036,6 +6346,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -6133,6 +6448,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -6230,6 +6550,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -6327,6 +6652,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -6424,6 +6754,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -6521,6 +6856,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -6618,6 +6958,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -6715,6 +7060,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=78 hivel=83
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -6815,6 +7165,11 @@ offset=90
 
 // LAYER 8 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -6912,6 +7267,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -7009,6 +7369,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -7106,6 +7471,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -7203,6 +7573,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -7300,6 +7675,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -7397,6 +7777,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -7494,6 +7879,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -7591,6 +7981,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -7688,6 +8083,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=72 hivel=77
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -7788,6 +8188,11 @@ offset=90
 
 // LAYER 9 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -7885,6 +8290,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -7982,6 +8392,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -8079,6 +8494,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -8176,6 +8596,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -8273,6 +8698,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -8370,6 +8800,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -8467,6 +8902,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -8564,6 +9004,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -8661,6 +9106,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=66 hivel=71
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -8761,6 +9211,11 @@ offset=90
 
 // LAYER 10 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -8858,6 +9313,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -8955,6 +9415,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -9052,6 +9517,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -9149,6 +9619,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -9246,6 +9721,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -9343,6 +9823,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -9440,6 +9925,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -9537,6 +10027,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -9634,6 +10129,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=60 hivel=65
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -9734,6 +10234,11 @@ offset=90
 
 // LAYER 11 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -9831,6 +10336,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -9928,6 +10438,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -10025,6 +10540,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -10122,6 +10642,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -10219,6 +10744,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -10316,6 +10846,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -10413,6 +10948,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -10510,6 +11050,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -10607,6 +11152,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=54 hivel=59
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -10707,6 +11257,11 @@ offset=90
 
 // LAYER 12 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -10804,6 +11359,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -10901,6 +11461,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -10998,6 +11563,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -11095,6 +11665,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -11192,6 +11767,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -11289,6 +11869,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -11386,6 +11971,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -11483,6 +12073,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -11580,6 +12175,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=48 hivel=53
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -11680,6 +12280,11 @@ offset=90
 
 // LAYER 13 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -11777,6 +12382,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -11874,6 +12484,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -11971,6 +12586,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -12068,6 +12688,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -12165,6 +12790,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -12262,6 +12892,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -12359,6 +12994,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -12456,6 +13096,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -12553,6 +13198,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=42 hivel=47
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -12653,6 +13303,11 @@ offset=90
 
 // LAYER 14 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -12750,6 +13405,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -12847,6 +13507,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -12944,6 +13609,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -13041,6 +13711,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -13138,6 +13813,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -13235,6 +13915,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -13332,6 +14017,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -13429,6 +14119,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -13526,6 +14221,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=36 hivel=41
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -13626,6 +14326,11 @@ offset=90
 
 // LAYER 15 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -13723,6 +14428,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -13820,6 +14530,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -13917,6 +14632,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -14014,6 +14734,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -14111,6 +14836,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -14208,6 +14938,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -14305,6 +15040,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -14402,6 +15142,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -14499,6 +15244,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=30 hivel=35
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -14599,6 +15349,11 @@ offset=90
 
 // LAYER 16 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -14696,6 +15451,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -14793,6 +15553,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -14890,6 +15655,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -14987,6 +15757,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -15084,6 +15859,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -15181,6 +15961,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -15278,6 +16063,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -15375,6 +16165,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -15472,6 +16267,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=24 hivel=29
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -15572,6 +16372,11 @@ offset=90
 
 // LAYER 17 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -15669,6 +16474,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -15766,6 +16576,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -15863,6 +16678,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -15960,6 +16780,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -16057,6 +16882,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -16154,6 +16984,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -16251,6 +17086,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -16348,6 +17188,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -16445,6 +17290,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=18 hivel=23
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -16545,6 +17395,11 @@ offset=90
 
 // LAYER 18 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -16642,6 +17497,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -16739,6 +17599,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -16836,6 +17701,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -16933,6 +17803,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -17030,6 +17905,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -17127,6 +18007,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -17224,6 +18109,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -17321,6 +18211,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -17418,6 +18313,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=12 hivel=17
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -17518,6 +18418,11 @@ offset=90
 
 // LAYER 19 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -17615,6 +18520,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -17712,6 +18622,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -17809,6 +18724,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -17906,6 +18826,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -18003,6 +18928,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -18100,6 +19030,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -18197,6 +19132,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -18294,6 +19234,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -18391,6 +19336,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=6 hivel=11
 lorand=0.9 hirand=1.0
 ampeg_release=1.6
@@ -18491,6 +19441,11 @@ offset=90
 
 // LAYER 20 - Start
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.0 hirand=0.1
 ampeg_release=1.6
@@ -18588,6 +19543,11 @@ offset=0
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.1 hirand=0.2
 ampeg_release=1.6
@@ -18685,6 +19645,11 @@ offset=10
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.2 hirand=0.3
 ampeg_release=1.6
@@ -18782,6 +19747,11 @@ offset=20
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.3 hirand=0.4
 ampeg_release=1.6
@@ -18879,6 +19849,11 @@ offset=30
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.4 hirand=0.5
 ampeg_release=1.6
@@ -18976,6 +19951,11 @@ offset=40
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.5 hirand=0.6
 ampeg_release=1.6
@@ -19073,6 +20053,11 @@ offset=50
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.6 hirand=0.7
 ampeg_release=1.6
@@ -19170,6 +20155,11 @@ offset=60
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.7 hirand=0.8
 ampeg_release=1.6
@@ -19267,6 +20257,11 @@ offset=70
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.8 hirand=0.9
 ampeg_release=1.6
@@ -19364,6 +20359,11 @@ offset=80
 <region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 lovel=0 hivel=5
 lorand=0.9 hirand=1.0
 ampeg_release=1.6

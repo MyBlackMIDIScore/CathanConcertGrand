@@ -5,6 +5,11 @@
 // Hammer preset made by KaleidonKep99
 
 <group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
 ampeg_release=1.6
 ampeg_attack=0.01
 
