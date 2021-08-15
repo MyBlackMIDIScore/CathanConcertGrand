@@ -1,7 +1,18 @@
-// Cathan Concert Grand
-// Original samples by Mats Helgesson
-// Edited samples by MBMS
-// Cakewalk SFZ presets by MBMS
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// Original piano samples recorded by Mats Helgesson for his Maestro Concert Grand V2 library.
+// Piano samples edited by MBMS.
+// Cakewalk SFZ presets made by MBMS.
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.me/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// CWSFZPF - START
 
 <global>
 tune=-40
@@ -13,8 +24,7 @@ pitchlfo_freq=8.176
 fil_type=lpf_2p
 loop_mode=no_loop
 lovel=114 hivel=127
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 cutoff=16000
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
@@ -86,25 +96,25 @@ cutoff=16000
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -115,8 +125,7 @@ loop_mode=no_loop
 lokey=0 hikey=127
 lovel=108 hivel=113
 cutoff=6971
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -187,25 +196,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -215,8 +224,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=102 hivel=107
 cutoff=6371
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -287,25 +295,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -315,8 +323,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=96 hivel=101
 cutoff=5775
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -387,25 +394,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -414,8 +421,7 @@ pitchlfo_freq=8.176
 fil_type=lpf_2p
 loop_mode=no_loop
 lovel=90 hivel=95
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -486,25 +492,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -514,8 +520,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=84 hivel=89
 cutoff=4581
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -586,25 +591,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -614,8 +619,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=78 hivel=83
 cutoff=3983
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -686,25 +690,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -714,8 +718,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=72 hivel=77
 cutoff=3384
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -786,25 +789,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -814,8 +817,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=66 hivel=71
 cutoff=2787
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -886,25 +888,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -914,8 +916,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=60 hivel=65
 cutoff=2191
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -986,25 +987,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1014,8 +1015,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=54 hivel=59
 cutoff=1792
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1086,25 +1086,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1114,8 +1114,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=48 hivel=53
 cutoff=1394
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1186,25 +1185,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1214,8 +1213,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=42 hivel=47
 cutoff=996
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1286,25 +1284,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1314,8 +1312,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=36 hivel=41
 cutoff=796
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1386,25 +1383,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1414,8 +1411,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=30 hivel=35
 cutoff=697
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1486,25 +1482,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1514,8 +1510,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=24 hivel=29
 cutoff=597
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1586,25 +1581,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1614,8 +1609,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=18 hivel=23
 cutoff=498
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1686,25 +1680,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1714,8 +1708,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=12 hivel=17
 cutoff=398
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1786,25 +1779,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1814,8 +1807,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=6 hivel=11
 cutoff=299
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1886,25 +1878,25 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108
 
 <group>
 amplfo_freq=8.176
@@ -1914,8 +1906,7 @@ fil_type=lpf_2p
 loop_mode=no_loop
 lovel=0 hivel=5
 cutoff=100
-ampeg_release=1.6
-ampeg_attack=0.01
+ampeg_release=0.9
 
 <region> sample=../.PianoSamples/CATHAN_021.wav lokey=0 hikey=21 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_022.wav key=22
@@ -1986,22 +1977,22 @@ ampeg_attack=0.01
 <region> sample=../.PianoSamples/CATHAN_087.wav key=87
 <region> sample=../.PianoSamples/CATHAN_088.wav key=88
 <region> sample=../.PianoSamples/CATHAN_089.wav key=89
-<region> sample=../.PianoSamples/CATHAN_090.wav key=90 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_091.wav key=91 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_092.wav key=92 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_093.wav key=93 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_094.wav key=94 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_095.wav key=95 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_096.wav key=96 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_097.wav key=97 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_098.wav key=98 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_099.wav key=99 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_100.wav key=100 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_101.wav key=101 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_102.wav key=102 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_103.wav key=103 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_104.wav key=104 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_105.wav key=105 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_106.wav key=106 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_107.wav key=107 ampeg_release=10
-<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108 ampeg_release=10
+<region> sample=../.PianoSamples/CATHAN_090.wav key=90
+<region> sample=../.PianoSamples/CATHAN_091.wav key=91
+<region> sample=../.PianoSamples/CATHAN_092.wav key=92
+<region> sample=../.PianoSamples/CATHAN_093.wav key=93
+<region> sample=../.PianoSamples/CATHAN_094.wav key=94
+<region> sample=../.PianoSamples/CATHAN_095.wav key=95
+<region> sample=../.PianoSamples/CATHAN_096.wav key=96
+<region> sample=../.PianoSamples/CATHAN_097.wav key=97
+<region> sample=../.PianoSamples/CATHAN_098.wav key=98
+<region> sample=../.PianoSamples/CATHAN_099.wav key=99
+<region> sample=../.PianoSamples/CATHAN_100.wav key=100
+<region> sample=../.PianoSamples/CATHAN_101.wav key=101
+<region> sample=../.PianoSamples/CATHAN_102.wav key=102
+<region> sample=../.PianoSamples/CATHAN_103.wav key=103
+<region> sample=../.PianoSamples/CATHAN_104.wav key=104
+<region> sample=../.PianoSamples/CATHAN_105.wav key=105
+<region> sample=../.PianoSamples/CATHAN_106.wav key=106
+<region> sample=../.PianoSamples/CATHAN_107.wav key=107
+<region> sample=../.PianoSamples/CATHAN_108.wav lokey=108 hikey=127 pitch_keycenter=108

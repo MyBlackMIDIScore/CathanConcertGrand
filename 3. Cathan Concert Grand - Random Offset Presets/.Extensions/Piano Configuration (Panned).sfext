@@ -1,26 +1,4 @@
-//////////////////////////
-// Cathan Concert Grand //
-//////////////////////////
-
-// Original piano samples recorded by Mats Helgesson for his Maestro Concert Grand V2 library.
-// Piano samples edited by MBMS.
-// Cakewalk SFZ presets made by MBMS.
-
-// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
-// You can find the LICENSE.md file in the root of this directorty.
-// For special use cases please contact MBMS (https://mbms.me/contact)
-
-// Please make backups of the SFZ files before editing them.
-
-// CWSFZPF - START
-
-<group>
-amplfo_freq=8.176
-fillfo_freq=8.176
-pitchlfo_freq=8.176
-fil_type=lpf_2p
-loop_mode=no_loop
-ampeg_release=3
+// Piano Configuration file for Cathan Concert Grand by MBMS
 
 <region> sample=../.PianoSamples/CATHAN_021.wav pan=-64 key=0 pitch_keycenter=21
 <region> sample=../.PianoSamples/CATHAN_021.wav pan=-63 key=1 pitch_keycenter=21
