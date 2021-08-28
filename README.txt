@@ -5,7 +5,7 @@ The Cathan Concert Grand includes 20 dynamic velocity layers for a realistic res
 
 -----------------
 
-Current version: 1.2
+Current version: 1.1.1
 
 -----------------
 
