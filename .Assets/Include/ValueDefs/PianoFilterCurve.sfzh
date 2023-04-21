@@ -1,0 +1,145 @@
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// The original piano samples were recorded by Mats Helgesson for the Maestro Concert Grand V2
+// sound set and were edited by MBMS upon obtaining written permission from Mats Helgesson.
+// Project's webpage: https://github.com/MyBlackMIDIScore/CathanConcertGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Group Filter Value Definitions
+
+#define $FIL001 150
+#define $FIL002 150
+#define $FIL003 150
+#define $FIL004 150
+#define $FIL005 150
+#define $FIL006 150
+#define $FIL007 150
+#define $FIL008 150
+#define $FIL009 150
+#define $FIL010 151
+#define $FIL011 151
+#define $FIL012 152
+#define $FIL013 153
+#define $FIL014 153
+#define $FIL015 154
+#define $FIL016 156
+#define $FIL017 157
+#define $FIL018 158
+#define $FIL019 160
+#define $FIL020 162
+#define $FIL021 164
+#define $FIL022 167
+#define $FIL023 170
+#define $FIL024 173
+#define $FIL025 176
+#define $FIL026 180
+#define $FIL027 185
+#define $FIL028 189
+#define $FIL029 194
+#define $FIL030 200
+#define $FIL031 206
+#define $FIL032 212
+#define $FIL033 219
+#define $FIL034 227
+#define $FIL035 235
+#define $FIL036 244
+#define $FIL037 253
+#define $FIL038 263
+#define $FIL039 274
+#define $FIL040 286
+#define $FIL041 298
+#define $FIL042 311
+#define $FIL043 325
+#define $FIL044 340
+#define $FIL045 356
+#define $FIL046 373
+#define $FIL047 390
+#define $FIL048 409
+#define $FIL049 429
+#define $FIL050 450
+#define $FIL051 472
+#define $FIL052 495
+#define $FIL053 520
+#define $FIL054 546
+#define $FIL055 573
+#define $FIL056 601
+#define $FIL057 631
+#define $FIL058 662
+#define $FIL059 695
+#define $FIL060 730
+#define $FIL061 766
+#define $FIL062 804
+#define $FIL063 843
+#define $FIL064 885
+#define $FIL065 928
+#define $FIL066 973
+#define $FIL067 1021
+#define $FIL068 1070
+#define $FIL069 1121
+#define $FIL070 1175
+#define $FIL071 1231
+#define $FIL072 1289
+#define $FIL073 1350
+#define $FIL074 1413
+#define $FIL075 1479
+#define $FIL076 1548
+#define $FIL077 1619
+#define $FIL078 1694
+#define $FIL079 1771
+#define $FIL080 1851
+#define $FIL081 1935
+#define $FIL082 2022
+#define $FIL083 2112
+#define $FIL084 2206
+#define $FIL085 2304
+#define $FIL086 2405
+#define $FIL087 2511
+#define $FIL088 2620
+#define $FIL089 2734
+#define $FIL090 2852
+#define $FIL091 2975
+#define $FIL092 3103
+#define $FIL093 3235
+#define $FIL094 3373
+#define $FIL095 3516
+#define $FIL096 3665
+#define $FIL097 3820
+#define $FIL098 3981
+#define $FIL099 4148
+#define $FIL100 4323
+#define $FIL101 4504
+#define $FIL102 4693
+#define $FIL103 4889
+#define $FIL104 5094
+#define $FIL105 5307
+#define $FIL106 5530
+#define $FIL107 5763
+#define $FIL108 6006
+#define $FIL109 6260
+#define $FIL110 6526
+#define $FIL111 6805
+#define $FIL112 7097
+#define $FIL113 7405
+#define $FIL114 7729
+#define $FIL115 8071
+#define $FIL116 8433
+#define $FIL117 8818
+#define $FIL118 9227
+#define $FIL119 9666
+#define $FIL120 10138
+#define $FIL121 10651
+#define $FIL122 11213
+#define $FIL123 11839
+#define $FIL124 12553
+#define $FIL125 13398
+#define $FIL126 14489
+#define $FIL127 17000

@@ -1,0 +1,106 @@
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// The original piano samples were recorded by Mats Helgesson for the Maestro Concert Grand V2
+// sound set and were edited by MBMS upon obtaining written permission from Mats Helgesson.
+// Project's webpage: https://github.com/MyBlackMIDIScore/CathanConcertGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Zero Pan Value Definitions
+
+#define $PAN021 0
+#define $PAN022 0
+#define $PAN023 0
+#define $PAN024 0
+#define $PAN025 0
+#define $PAN026 0
+#define $PAN027 0
+#define $PAN028 0
+#define $PAN029 0
+#define $PAN030 0
+#define $PAN031 0
+#define $PAN032 0
+#define $PAN033 0
+#define $PAN034 0
+#define $PAN035 0
+#define $PAN036 0
+#define $PAN037 0
+#define $PAN038 0
+#define $PAN039 0
+#define $PAN040 0
+#define $PAN041 0
+#define $PAN042 0
+#define $PAN043 0
+#define $PAN044 0
+#define $PAN045 0
+#define $PAN046 0
+#define $PAN047 0
+#define $PAN048 0
+#define $PAN049 0
+#define $PAN050 0
+#define $PAN051 0
+#define $PAN052 0
+#define $PAN053 0
+#define $PAN054 0
+#define $PAN055 0
+#define $PAN056 0
+#define $PAN057 0
+#define $PAN058 0
+#define $PAN059 0
+#define $PAN060 0
+#define $PAN061 0
+#define $PAN062 0
+#define $PAN063 0
+#define $PAN064 0
+#define $PAN065 0
+#define $PAN066 0
+#define $PAN067 0
+#define $PAN068 0
+#define $PAN069 0
+#define $PAN070 0
+#define $PAN071 0
+#define $PAN072 0
+#define $PAN073 0
+#define $PAN074 0
+#define $PAN075 0
+#define $PAN076 0
+#define $PAN077 0
+#define $PAN078 0
+#define $PAN079 0
+#define $PAN080 0
+#define $PAN081 0
+#define $PAN082 0
+#define $PAN083 0
+#define $PAN084 0
+#define $PAN085 0
+#define $PAN086 0
+#define $PAN087 0
+#define $PAN088 0
+#define $PAN089 0
+#define $PAN090 0
+#define $PAN091 0
+#define $PAN092 0
+#define $PAN093 0
+#define $PAN094 0
+#define $PAN095 0
+#define $PAN096 0
+#define $PAN097 0
+#define $PAN098 0
+#define $PAN099 0
+#define $PAN100 0
+#define $PAN101 0
+#define $PAN102 0
+#define $PAN103 0
+#define $PAN104 0
+#define $PAN105 0
+#define $PAN106 0
+#define $PAN107 0
+#define $PAN108 0

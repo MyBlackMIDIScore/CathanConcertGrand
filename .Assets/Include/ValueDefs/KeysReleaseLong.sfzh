@@ -1,0 +1,106 @@
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// The original piano samples were recorded by Mats Helgesson for the Maestro Concert Grand V2
+// sound set and were edited by MBMS upon obtaining written permission from Mats Helgesson.
+// Project's webpage: https://github.com/MyBlackMIDIScore/CathanConcertGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Long Release Value Definitions
+
+#define $REL021 2.8
+#define $REL022 2.802
+#define $REL023 2.805
+#define $REL024 2.809
+#define $REL025 2.814
+#define $REL026 2.819
+#define $REL027 2.825
+#define $REL028 2.832
+#define $REL029 2.839
+#define $REL030 2.846
+#define $REL031 2.854
+#define $REL032 2.863
+#define $REL033 2.871
+#define $REL034 2.881
+#define $REL035 2.89
+#define $REL036 2.9
+#define $REL037 2.91
+#define $REL038 2.92
+#define $REL039 2.931
+#define $REL040 2.942
+#define $REL041 2.954
+#define $REL042 2.965
+#define $REL043 2.977
+#define $REL044 2.99
+#define $REL045 3.002
+#define $REL046 3.015
+#define $REL047 3.028
+#define $REL048 3.041
+#define $REL049 3.055
+#define $REL050 3.068
+#define $REL051 3.082
+#define $REL052 3.097
+#define $REL053 3.111
+#define $REL054 3.126
+#define $REL055 3.141
+#define $REL056 3.156
+#define $REL057 3.171
+#define $REL058 3.187
+#define $REL059 3.203
+#define $REL060 3.219
+#define $REL061 3.235
+#define $REL062 3.251
+#define $REL063 3.268
+#define $REL064 3.285
+#define $REL065 3.302
+#define $REL066 3.319
+#define $REL067 3.336
+#define $REL068 3.354
+#define $REL069 3.372
+#define $REL070 3.39
+#define $REL071 3.408
+#define $REL072 3.426
+#define $REL073 3.444
+#define $REL074 3.463
+#define $REL075 3.482
+#define $REL076 3.501
+#define $REL077 3.52
+#define $REL078 3.54
+#define $REL079 3.559
+#define $REL080 3.579
+#define $REL081 3.599
+#define $REL082 3.619
+#define $REL083 3.639
+#define $REL084 3.659
+#define $REL085 3.68
+#define $REL086 3.701
+#define $REL087 3.722
+#define $REL088 3.743
+#define $REL089 3.764
+#define $REL090 3.785
+#define $REL091 3.807
+#define $REL092 3.828
+#define $REL093 8
+#define $REL094 8
+#define $REL095 8
+#define $REL096 8
+#define $REL097 8
+#define $REL098 8
+#define $REL099 8
+#define $REL100 8
+#define $REL101 8
+#define $REL102 8
+#define $REL103 8
+#define $REL104 8
+#define $REL105 8
+#define $REL106 8
+#define $REL107 8
+#define $REL108 8
