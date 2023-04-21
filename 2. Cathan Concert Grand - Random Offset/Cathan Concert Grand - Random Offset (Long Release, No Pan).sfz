@@ -1,0 +1,27 @@
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// The original piano samples were recorded by Mats Helgesson for the Maestro Concert Grand V2
+// sound set and were edited by MBMS upon obtaining written permission from Mats Helgesson
+// Project's webpage: https://github.com/MyBlackMIDIScore/CathanConcertGrand
+
+// This SFZ instrument file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// *********************
+// Context Value Definitions
+
+#include "../.Assets/Include/ValueDefs/KeysZeroPan.sfzh"
+#include "../.Assets/Include/ValueDefs/KeysReleaseLong.sfzh"
+
+
+// *********************
+
+#include "../.Assets/Include/SFZ/MainPiano.sfzh"
+#include "../.Assets/Include/SFZ/PianoRandomOffsetGroups.sfzh"

@@ -1,0 +1,69 @@
+//////////////////////////
+// Cathan Concert Grand //
+//////////////////////////
+
+// The original piano samples were recorded by Mats Helgesson for the Maestro Concert Grand V2
+// sound set and were edited by MBMS upon obtaining written permission from Mats Helgesson.
+// Project's webpage: https://github.com/MyBlackMIDIScore/CathanConcertGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Piano SFZ Instrument Configuration
+
+
+// *********************
+// MIDI CC Definitions
+
+#define $CCVOLUME 7
+#define $CCPAN 10
+#define $CCRELEASE 72
+
+
+// *********************
+// Value Definitions
+
+#include "../.Assets/Include/ValueDefs/PianoAttackCurve.sfzh"
+#include "../.Assets/Include/ValueDefs/PianoFilterCurve.sfzh"
+
+
+// *********************
+// Global Control
+
+<control>
+label_cc$CCVOLUME=Master.Volume
+label_cc$CCPAN=Master.Pan
+label_cc$CCRELEASE=Release.Time
+
+set_cc$CCVOLUME=100
+set_cc$CCPAN=64
+set_cc$CCRELEASE=64
+
+
+// *********************
+// Piano Section
+
+<control>
+default_path=../.Assets/Samples/
+
+<global>
+master_label=CathanConcertGrand
+
+amplitude_oncc$CCVOLUME=100
+amplitude_curvecc$CCVOLUME=4
+pan_oncc$CCPAN=100
+pan_curvecc$CCPAN=1
+ampeg_releasecc$CCRELEASE=1
+ampeg_release_curvecc$CCRELEASE=7
+
+loop_mode=no_loop
+ampeg_start=10
+
+fil_type=lpf_2p
+fil_keytrack=16
+fil_keycenter=21
