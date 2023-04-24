@@ -7,7 +7,7 @@ The Cathan Concert Grand is a high quality piano soundfont based on the Maestro 
 ## Usage Instructions
 
 <p align="center">
-    <a href="https://github.com/MyBlackMIDIScore/CathanConcertGrand/archive/refs/tags/2.0.zip">
+    <a href="https://github.com/MyBlackMIDIScore/CathanConcertGrand/archive/refs/tags/2.1.zip">
         <img src="https://raw.githubusercontent.com/MyBlackMIDIScore/AmethystImperialGrand/332fea447ae96ae2f53fc9c67a7ad7cb54c73baf/.Assets/Images/download_btn.svg" height=80/>
     </a>
 </p>
